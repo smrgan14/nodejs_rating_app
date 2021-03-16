@@ -1,0 +1,5 @@
+node_modules
+incubator_mysql
+incubator_mysql_bak
+logs/*.log
+.env

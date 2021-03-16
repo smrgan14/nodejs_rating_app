@@ -1,0 +1,283 @@
+{
+    "reportRatings": [
+        {
+            "date": "2019-04-26",
+            "happinesFactor": 3.2,
+            "emotions": [
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 3
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 3
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 1
+                }
+            ]
+        },
+        {
+            "date": "2019-04-29",
+            "happinesFactor": 22.8,
+            "emotions": [
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 22
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 14
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 21
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 24
+                },
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 33
+                }
+            ]
+        },
+        {
+            "date": "2019-05-02",
+            "happinesFactor": 10.2,
+            "emotions": [
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 8
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 15
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 9
+                },
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 9
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 10
+                }
+            ]
+        },
+        {
+            "date": "2019-05-03",
+            "happinesFactor": 14,
+            "emotions": [
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 9
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 15
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 15
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 15
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 16
+                }
+            ]
+        },
+        {
+            "date": "2019-05-05",
+            "happinesFactor": 11,
+            "emotions": [
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 14
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 9
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 6
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 12
+                },
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "date": "2019-05-06",
+            "happinesFactor": 9.8,
+            "emotions": [
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 7
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 7
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 8
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 12
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 15
+                }
+            ]
+        },
+        {
+            "date": "2019-05-11",
+            "happinesFactor": 9,
+            "emotions": [
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 11
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 1
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 9
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 11
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 13
+                }
+            ]
+        },
+        {
+            "date": "2019-05-12",
+            "happinesFactor": 11.2,
+            "emotions": [
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 14
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 9
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 6
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 13
+                },
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "date": "2019-05-13",
+            "happinesFactor": 8.8,
+            "emotions": [
+                {
+                    "id": 5,
+                    "name": "Sad",
+                    "count": 11
+                },
+                {
+                    "id": 1,
+                    "name": "Happy",
+                    "count": 1
+                },
+                {
+                    "id": 3,
+                    "name": "Meh",
+                    "count": 9
+                },
+                {
+                    "id": 2,
+                    "name": "Satisfied",
+                    "count": 12
+                },
+                {
+                    "id": 4,
+                    "name": "Dissatisfied",
+                    "count": 11
+                }
+            ]
+        }
+    ]
+}

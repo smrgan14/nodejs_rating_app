@@ -1,0 +1,15 @@
+export default {
+  emotionsSettings: state => state.emotionsSettings,
+  filteredEmotions: state => state.filteredEmotions,
+  numberOfEmotions: state => state.config.numberOfEmotions,
+  messageTimeOut: state => state.config.messageTimeOut,
+  ratingMessage: state => state.config.ratingMessage,
+  todayRatings: state => state.todayRatings,
+  emotionsTableData: state => state.emotionsTableData,
+  emotionsPieChartData: state => state.emotionsPieChartData,
+  emotionsLineChartData: state => state.emotionsLineChartData,
+  errorMessage: state => state.errorMessage,
+  accessToken: state => state.accessToken,
+  userInfo: state => state.userInfo,
+  translations: state => state.translations,
+};

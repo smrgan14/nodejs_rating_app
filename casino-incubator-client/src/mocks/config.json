@@ -1,0 +1,14 @@
+{
+  "config": {
+    "emotions": [
+      { "id": 1, "status": "Happy" },
+      { "id": 2, "status": "Satisfied" },
+      { "id": 3, "status": "Meh" },
+      { "id": 4, "status": "Dissatisfied" },
+      { "id": 5, "status": "Sad" }
+    ],
+      "numberOfEmotions": 3,
+      "messageTimeOut": 2000,
+      "ratingMessage": "Thank you for your rating!"
+  }
+}

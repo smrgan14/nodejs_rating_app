@@ -1,0 +1,23 @@
+version: "2"
+services:
+ # MariaDB Service
+ incubator_mysql:
+   image: mariadb:10.2.8
+   container_name: incubator_mysql
+   ports:
+       - "3306:3306"
+   environment:
+    - MYSQL_ROOT_PASSWORD=incubator
+   volumes:
+     - incubator_mysql:/var/lib/mysql
+ # PHP MyAdmin Service
+ incubator_pma:
+   image: phpmyadmin/phpmyadmin:latest
+   container_name: incubator_pma
+   ports:
+       - "8100:80"
+   environment:
+    - PMA_HOSTS=incubator_mysql
+    - PMA_PORT=3306
+volumes:
+ incubator_mysql:
